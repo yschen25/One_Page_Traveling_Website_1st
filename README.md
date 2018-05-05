@@ -16,5 +16,8 @@
 ## Demo
 
 <p align="center">
-   <img src="01.gif" alt="My_FirstWebsite" title="My_FirstWebsite" width="75%">
- </p>
+   <img src="First_Website.gif" alt="My_FirstWebsite" title="My_FirstWebsite" width="75%">
+</p>
+
+
+Using [ScreenToGif](http://www.screentogif.com/) to record 'n' [ezGIF](https://ezgif.com/) to edit
