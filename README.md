@@ -1,17 +1,17 @@
 # First_Website
 
-* **Programmer : ME**
+* **Programmer : [ME](https://github.com/yschen25)**
         
-         No plugin
-         This web w/o RWD but 2nd one have it 
+        * No plugin
+        * This web w/o RWD but 2nd will have it 
          
-* **Ui/Ux Designer : ME**
+* **Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
-        Using Photoshop && Illustrator
+           Using Photoshop and Illustrator
 
-* **Project manager : ME**
+* **Project manager : [ME](https://github.com/yschen25)**
 
-        The whole web struture and function
+           The whole web struture and function
         
 ## Demo
 
