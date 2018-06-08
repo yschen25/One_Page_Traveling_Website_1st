@@ -1,5 +1,9 @@
 # First_Website
 
+         The first website I start learning programming
+
+## Aurthor
+
 * **Programmer : [ME](https://github.com/yschen25)**
         
         * No plugin
