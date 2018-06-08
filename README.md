@@ -7,11 +7,11 @@
          
 * **Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
-           Using Photoshop and Illustrator
+          Using Photoshop and Illustrator
 
 * **Project manager : [ME](https://github.com/yschen25)**
 
-           The whole web struture and function
+          The whole web struture and function
         
 ## Demo
 
