@@ -1,6 +1,6 @@
-# First_Website
+# First_Project
 
-         The first website I start learning programming
+         Building a website from structuring, designing, drawing to writing by my own
 
 ## Aurthor
 
@@ -16,14 +16,25 @@
 * **Project manager : [ME](https://github.com/yschen25)**
 
           The whole web struture and function
-        
+<br/>
+
 ## Demo
 
 <p align="center">
-   <img src="First_Website.gif" alt="My_FirstWebsite" title="My_FirstWebsite" width="75%">
+   <img src="Project_1st.gif" alt="Project_1st" title="Project_1st" width="75%">
 </p>
 <br/>
 
+## Update
+
+* **2018.9.10**
+
+         * Optimizing css style
+         * Optimizing js script
+         * Fixing an image doesn't show in the browsers : IE and Edge 
+         * Fixing the layout in IE
+         * Optimizing user interface
+<br/>
 
 ## Demo Editor Tools
 Using [ScreenToGif](http://www.screentogif.com/) to record 'n' [ezGIF](https://ezgif.com/) to edit
