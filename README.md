@@ -28,7 +28,7 @@
 
 ## Update
 
-* **2018.9.10**
+* **2018.09.10**
 
          * Optimizing css style
          * Optimizing js script
