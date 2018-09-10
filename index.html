@@ -2,178 +2,157 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=10,chrome=1">
+	<meta name="author" content="Yi-Shiuan Chen,yschen,yschen25,Ka,陳翊萱,(https://github.com/yschen25)">
+	<meta name="keywords" content="html,css,javascript,jQuery,ui design, ux design">
+	<meta namge="description" content="website building, website designing,網站設計與架設" />
 	<title>Everest | Challenge It!</title>
 	<link rel="icon" href="image/favicon.png" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
-	<link rel="stylesheet" type="text/css" href="css/myCss.css">
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/mainCss.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<script src="js/myJs.js"></script>
+	<script src="js/mainJs.js"></script>
 </head>
 <body>
 <div class="full" id="full">
 <!-- ============Nav============= -->
-<div class="navigation">
-	<div class="logo">
-		<a href="#full">
-			<img src="image/logo2_01.png">
-		</a>
-	</div>
-	<div class="nav">
-		<div class="nav_up">
-			<ul>
-				<a href="javascript:void(0)">
-					<li>English</li>
-				</a>
-				<a href="javascript:void(0)">
-					<li>Login</li>
-				</a>
-			</ul>
+	<div class="navigation">
+		<div class="logo">
+			<a href="#full">
+				<img src="image/logo2_01.png">
+			</a>
+		</div>
+		<div class="nav">
+			<div class="nav_up">
+				<ul>
+					<a><li>English</li></a>
+					<a><li>Login</li></a>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="nav_dw">
+				<ul>
+					<a href="#explore"><li>EXPLORE</li></a>
+					<a href="#adventure"><li>ADVENTURES</li></a>
+					<a href="#region"><li>REGIONS</li></a>
+					<a href="#review"><li>REVIEWS</li></a>
+				</ul>
+			</div>
+			<div class="clear"></div>
 		</div>
 		<div class="clear"></div>
-		<div class="nav_dw">
-			<ul>
-				<a href="#explore">
-					<li>EXPLORE</li>
-				</a>
-				<a href="#adventure">
-					<li>ADVENTURES</li>
-				</a>
-				<a href="#region">
-					<li>REGIONS</li>
-				</a>
-				<a href="#review">
-					<li>REVIEWS</li>
-				</a>
-			</ul>
-		</div>
-			<div class="clear"></div>
 	</div>
-	<div class="clear"></div>
-</div>
-<div class="box">
-<!-- ===========Banner============ -->
-<div class="banner">
- 	<div class="background" id="b3"></div>
- 	<div class="background" id="b2"></div>
- 	<div class="background" id="b1"></div>
- 	<div class="background" id="b0"></div> 	
-	<div class="search">
-		<div class="search_bar">
-			<div class="item">
-				<a href="#">
-					<img src="image/search_bar1.png">
-				</a>
-			</div>
-			<div class="item">
-				<a href="#">
-					<img src="image/search_bar2.png">
-				</a>
-			</div>
-			<div class="item">
-				<a href="#">
-					<img src="image/search_bar3.png">
-				</a>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<div class="seek">
-			<div class="seek_type">
-				<p>Seek what you dream of</p>
-				<input type="text" placeholder="Bungee Jumping..." autofocus>
-			</div>
-			<div class="seek_pic">
+	<div class="box">
+	<!-- ===========Banner============ -->
+	<div class="banner">
+	 	<div class="background" id="b3"></div>
+	 	<div class="background" id="b2"></div>
+	 	<div class="background" id="b1"></div>
+	 	<div class="background" id="b0"></div> 	
+		<div class="search">
+			<div class="search_bar">
 				<div class="item">
-					<a href="#">
-						<img src="image/seek1.png">
-					</a>
+					<a><img src="image/search_bar1.png"></a>
 				</div>
 				<div class="item">
-					<a href="#">
-						<img src="image/seek2.png">
-					</a>
+					<a><img src="image/search_bar2.png"></a>
 				</div>
 				<div class="item">
-					<a href="#">
-						<img src="image/seek3.png">
-					</a>
+					<a><img src="image/search_bar3.png"></a>
 				</div>
 				<div class="clear"></div>
 			</div>
-			<div class="seek_choice">
-				<div class="item">
-					<p>Depart</p>
-					<input type="text" placeholder="Pick a date">
+			<div class="seek">
+				<div class="seek_type">
+					<p>Seek what you dream of</p>
+					<input type="text" placeholder="Bungee Jumping..." autofocus>
 				</div>
-				<div class="item">
-					<p>Return</p>
-					<input type="text" placeholder="Pick a date">
+				<div class="seek_pic">
+					<div class="item">
+						<a><img src="image/seek1.png"></a>
+					</div>
+					<div class="item">
+						<a><img src="image/seek2.png"></a>
+					</div>
+					<div class="item">
+						<a><img src="image/seek3.png"></a>
+					</div>
+					<div class="clear"></div>
 				</div>
-				<div class="clear"></div>
-				<div class="item">
-					<p>Members</p>
-					<input type="text" placeholder="1">
+				<div class="seek_choice">
+					<div class="item">
+						<p>Depart</p>
+						<input type="text" placeholder="Pick a date">
+					</div>
+					<div class="item">
+						<p>Return</p>
+						<input type="text" placeholder="Pick a date">
+					</div>
+					<div class="clear"></div>
+					<div class="item">
+						<p>Members</p>
+						<input type="text" placeholder="1">
+					</div>
+					<div class="clear"></div>
 				</div>
-				<div class="clear"></div>
-			</div>
-			<div class="button">
-				<a href="#">SEARCH IT !</a>
+				<div class="button">
+					<a>SEARCH IT !</a>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
-<!-- ======Why we are the best====== -->
-<div class="best">
-	<div class="contain">
-		<h1>WHY WE ARE THE BEST</h1>
-		<h2>WE OFFER ALL YOU WANT</h2>
+	<!-- ======Why we are the best====== -->
+	<div class="best">
+		<div class="contain">
+			<h1>WHY WE ARE THE BEST</h1>
+			<h2>WE OFFER ALL YOU WANT</h2>
 			<div class="item">
 				<h3>Regions</h3>
 				<p>Included</p>
 				<p class="number count">23</p>
 				<p>Distinct countries</p>
-				<a href="#">MORE</a>
+				<a>MORE</a>
 			</div>
 			<div class="item">
 				<h3>Adventures</h3>
 				<p>More than</p>
 				<p class="number count">120</p>
 				<p>extraodinary Activities</p>
-				<a href="#">MORE</a>
+				<a >MORE</a>
 			</div>
 			<div class="item">
 				<h3>Plans</h3>
 				<p>One activity has</p>
 				<p class="number count">15</p>
 				<p>different trip plans for you to explore</p>
-				<a href="#">MORE</a>
+				<a>MORE</a>
 			</div>
 			<div class="item">
 				<h3>Support</h3>
 				<p>Customer Service</p>
 				<p class="number count">24</p>
 				<p>always on call</p>
-				<a href="#">MORE</a>
+				<a>MORE</a>
 			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<!-- ===========Explore============ -->
+	<div class="explore anchor" >
+		<div><div id="explore"></div></div>
+		<h1>EXPLORE</h1>
+		<div class="story">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores minima exercitationem possimus ipsum facere. Quasi repellat dolorum iusto impedit asperiores fuga, laboriosam debitis doloribus, libero illum inventore placeat sed sint! Accusantium ullam soluta similique, itaque, ipsa eaque et dicta, neque facere sapiente laborum amet inventore modi laboriosam minus. Veniam, voluptas.</p>
+		<div class="story_title">
+			<h2>Explore the impossibility</h2>
+		</div>
 		<div class="clear"></div>
+		</div>
 	</div>
-</div>
-<!-- ===========Explore============ -->
-<div class="explore anchor" >
-	<div style="position: relative;"><div id="explore" style="position: absolute; top:-50px;"></div></div>
-	<h1>EXPLORE</h1>
-	<div class="story">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores minima exercitationem possimus ipsum facere. Quasi repellat dolorum iusto impedit asperiores fuga, laboriosam debitis doloribus, libero illum inventore placeat sed sint! Accusantium ullam soluta similique, itaque, ipsa eaque et dicta, neque facere sapiente laborum amet inventore modi laboriosam minus. Veniam, voluptas.</p>
-	<div class="story_title">
-		<h2>Explore the impossibility</h2>
-	</div>
-	<div class="clear"></div>
-	</div>
-</div>
-<!-- ===========Adventures=========== -->
-<div class="adventure anchor">
-<div style="position: relative;"><div id="adventure" style="position: absolute; top:-50px;"></div></div>
-	<h1>ADVENTURES</h1>
+	<!-- ===========Adventures=========== -->
+	<div class="adventure anchor">
+		<div><div id="adventure"></div></div>
+		<h1>ADVENTURES</h1>
 		<div class="bar_gp">
 			<div class="bar bar1">Hottest</div>
 			<div class="bar">Land Adv</div>
@@ -181,57 +160,57 @@
 			<div class="bar">Sky Adv</div>
 		<div class="clear"></div>
 		</div>
-	<div class="item_gp">
-		<div class="item" onclick="popUp()">
-			<a href="#0">
-				<img src="image/ad-1.png">
-				<div class="mask mask1">
-				<p>Rafting</p>
-				</div>
-			</a>
+		<div class="item_gp">
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-1.png">
+					<div class="mask mask1">
+					<p>Rafting</p>
+					</div>
+				</a>
+			</div>
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-2.png">
+					<div class="mask mask1">
+					<p>Bungee Jumping</p>
+					</div>
+				</a>
+			</div>
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-3.png">
+					<div class="mask mask1">
+					<p>Hiking</p>
+					</div>
+				</a>
+			</div>
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-4.png">
+					<div class="mask mask2">
+					<p>Mountain Bike</p>
+					</div>
+				</a>
+			</div>
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-5.png">
+					<div class="mask mask2">
+					<p>Wingsuit</p>
+					</div>
+				</a>
+			</div>
+			<div class="item showPopup">
+				<a>
+					<img src="image/ad-6.png">
+				</a>
+			</div>
+		<div class="clear"></div>
 		</div>
-		<div class="item" onclick="popUp()">
-			<a href="#0">
-				<img src="image/ad-2.png">
-				<div class="mask mask1">
-				<p>Bungee Jumping</p>
-				</div>
-			</a>
-		</div>
-		<div class="item" onclick="popUp()">
-			<a href="#0">
-				<img src="image/ad-3.png">
-				<div class="mask mask1">
-				<p>Hiking</p>
-				</div>
-			</a>
-		</div>
-		<div class="item" onclick="popUp()">
-			<a href="#0">
-				<img src="image/ad-4.png">
-				<div class="mask mask2">
-				<p>Mountain Bike</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="#0">
-				<img src="image/ad-5.png">
-				<div class="mask mask2">
-				<p>Wingsuit</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="#0">
-				<img src="image/ad-6.png">
-			</a>
-		</div>
-	<div class="clear"></div>
 	</div>
-</div>
-<!-- =========Popup========== -->
-<div class="cover" id="popup" onclick="popUp()">
+	<!-- =========Popup========== -->
+	<div class="cover popup">
 		<div class="item_gp">
 			<div class="item item_pic">
 				<img src="image/ad-1.png">
@@ -244,261 +223,233 @@
 			</div>
 			<div class="clear"></div>
 		</div>
-		<div class="search input-group date">
+		<div class="search input-group date"></div>
+		<div class="close">
+			<img src="image/close.png">
 		</div>
-	<div class="close">
-		<img src="image/close.png">
+		<div class="book">
+			<a>BOOK THIS!</a>
+		</div>
 	</div>
-	<div class="book">
-		<a href="#">BOOK THIS!</a>
-	</div>
-</div>
-<!-- ========Regions========== -->
-<div class="region anchor">
-<div style="position: relative;"><div id="region" style="position: absolute; top:-50px;"></div></div>
-	<h1>REGIONS</h1>
+	<!-- ========Regions========== -->
+	<div class="region anchor">
+		<div><div id="region"></div></div>
+		<h1>REGIONS</h1>
 		<div class="contain">
 			<div class="bar bar1">Hottest</div>
 			<div class="bar">North America</div>
 			<div class="bar">South America</div>
 			<div class="bar">Asia</div>
 			<div class="bar">Europe</div>
-		<div class="clear"></div>
+			<div class="clear"></div>
 		</div>
-	<div class="item_gp">
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_1.png">
-				<div class="mask mask1">
-					<p>Chile</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_2.png">
-				<div class="mask mask1">
-					<p>Nepal</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_3.png">
-				<div class="mask mask2">
-					<p>Peru</p>
-				</div>
-			</a>	
-		</div>
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_4.png">
-				<div class="mask mask3">
-				<p>Canada</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_5.png">
-				<div class="mask mask3">
-				<p>Scottish</p>
-				</div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="javascript:void(0)">
-				<img src="image/re_6.png">
-			</a>	
-		</div>
-	<div class="clear"></div>
-	</div>
-</div>
-<!-- ========Special offer========= -->
-<div class="special">
-	<h1>SPECIAL OFFER</h1>
-	<h2>Wubba lubba dub dub</h2>
 		<div class="item_gp">
 			<div class="item">
-				<a href="#0" class="a1">
-					<img src="image/special_1.png">
-					<div class="arrow1"></div>	
+				<a>
+					<img src="image/re_1.png">
+					<div class="mask mask1">
+						<p>Chile</p>
+					</div>
 				</a>
 			</div>
 			<div class="item">
-					<h3>Wingsuit in Indonesia</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>	
-			</div>
-			<div class="item">
-				<a href="#0" class="a1">
-					<img src="image/special_2.png">
-					<div class="arrow1"></div>
+				<a>
+					<img src="image/re_2.png">
+					<div class="mask mask1">
+						<p>Nepal</p>
+					</div>
 				</a>
 			</div>
 			<div class="item">
-				<h3>Mountain bike in Austria</h3>
-
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				<a>
+					<img src="image/re_3.png">
+					<div class="mask mask2">
+						<p>Peru</p>
+					</div>
+				</a>	
 			</div>
 			<div class="item">
-				<h3>Rafting in Denmark</h3>
-
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
-			</div>
-			<!-- <div class="clear"></div> -->
-			<div class="item">
-				<a href="#0" class="a2">
-					<img src="image/special_3.png">
-					<div class="arrow2"></div>
+				<a>
+					<img src="image/re_4.png">
+					<div class="mask mask3">
+						<p>Canada</p>
+					</div>
 				</a>
 			</div>
 			<div class="item">
-				<h3>Rafting in Denmark</h3>
-				
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
-			</div>
-			<div class="item">
-				<a href="#0" class="a2">
-					<img src="image/special_4.png">
-					<div class="arrow2"></div>
+				<a>
+					<img src="image/re_5.png">
+					<div class="mask mask3">
+						<p>Scottish</p>
+					</div>
 				</a>
 			</div>
 			<div class="item">
-				<a href="#0" class="a1">
-					<img src="image/special_1.png">
-					<div class="arrow1"></div>	
-				</a>
-			</div>
-			<div class="item">
-					<h3>Wingsuit in Indonesia</h3>
-					
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>	
-			</div>
-			<div class="item">
-				<a href="#0" class="a1">
-					<img src="image/special_2.png">
-					<div class="arrow1"></div>
-				</a>
-			</div>
-			<div class="item">
-				<h3>Mountain bike in Austria</h3>
-
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				<a>
+					<img src="image/re_6.png">
+				</a>	
 			</div>
 			<div class="clear"></div>
 		</div>
-
-</div>
-<!-- =========Reviews========== -->
-<div class="review anchor">
-<div style="position: relative;"><div id="review" style="position: absolute; top:-50px;"></div></div>
-<h1>REVIEWS</h1>
-	<div class="review_gp">
-		<div class="item item_nav">
-			<ul>
-				<a href="javascript:void(0)">
-					<li>Cliff Diving | Italy</li>
-				</a>
-				<a href="javascript:void(0)">
-					<li>Volcano Boarding | Nicaragua</li>
-				</a>
-				<a href="javascript:void(0)">
-					<li>Zip Line | Canada</li>
-				</a>
-				<a href="javascript:void(0)">
-					<li>Sky Surfing | Austria</li>
-				</a>
-				<a href="javascript:void(0)">
-					<li>Downhill | Germany</li>
-				</a>
-			</ul>
-		</div>
-		<div class="item item_text">
-			<p>What an awesome view of Clearwater beaches! So cool to be in the air in an open flight.<br><br>     
-			The instructor was super helpful and friendly. He'll let you fly if you want to. But I was too scared since it was my first time and windy. when you 
-			get up to the top it's so peaceful anda breathtaking.<br><br>   
-			<span>I would do something like this again if I see it !
-			</span>
-			<br>
-			</p>
-			<p>- Alexander</span></p>
-		</div>
-		<div class="item item_pic">
-			<img src="image/re_sky.png">
-		</div>
-		<div class="clear"></div>
 	</div>
-</div>
-<!-- =========Contact us========== -->
-<div class="contact">
-<div class="contain">
-	<h1>CONTACT US</h1>
-	<h2>GET IN TOUCH WITH US</h2>
-	<div class="item">
-		<img src="image/tel.png">
-		<p>CALL US<br>
-		<span>0961-523-826</span>
-		</p>
+	<!-- ========Special offer========= -->
+	<div class="special">
+		<h1>SPECIAL OFFER</h1>
+		<h2>Wubba lubba dub dub</h2>
+			<div class="item_gp">
+				<div class="item">
+					<a class="a1">
+						<img src="image/special_1.png">
+						<div class="arrow1"></div>	
+					</a>
+				</div>
+				<div class="item">
+						<h3>Wingsuit in Indonesia</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>	
+				</div>
+				<div class="item">
+					<a class="a1">
+						<img src="image/special_2.png">
+						<div class="arrow1"></div>
+					</a>
+				</div>
+				<div class="item">
+					<h3>Mountain bike in Austria</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				</div>
+				<div class="item">
+					<h3>Rafting in Denmark</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				</div>
+				<div class="item">
+					<a class="a2">
+						<img src="image/special_3.png">
+						<div class="arrow2"></div>
+					</a>
+				</div>
+				<div class="item">
+					<h3>Rafting in Denmark</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				</div>
+				<div class="item">
+					<a class="a2">
+						<img src="image/special_4.png">
+						<div class="arrow2"></div>
+					</a>
+				</div>
+				<div class="item">
+					<a class="a1">
+						<img src="image/special_1.png">
+						<div class="arrow1"></div>	
+					</a>
+				</div>
+				<div class="item">
+						<h3>Wingsuit in Indonesia</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>	
+				</div>
+				<div class="item">
+					<a class="a1">
+						<img src="image/special_2.png">
+						<div class="arrow1"></div>
+					</a>
+				</div>
+				<div class="item">
+					<h3>Mountain bike in Austria</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur nulla quia perspiciatis, illo fugit in.</p>
+				</div>
+				<div class="clear"></div>
+			</div>
 	</div>
-	<div class="item">
-		<img src="image/mail.png">
-		<p>MAIL US<br>
-		<a href="mailto:Everest@gmail.com">Everest@gmail.com</a>
-		</p>
-	</div>
-	<div class="clear"></div>
-	<div class="message_gp">
-		<div class="mes_item item1">
-			<input type="text" placeholder="* NAME">
-			<input type="text" placeholder="* EMAIL">
-		</div>
-		<div class="mes_item item2">
-			<input type="text" placeholder="YOUR MESSAGE">
-		</div>
-		<div class="clear"></div>
-	</div>
-	<div class="button">
-		<a href="#">SEND</a>
-	</div>
-</div>
-</div>
-<!-- =========Footer========== -->
-<div class="footer">
-	<h3>CAN’T WAIT TO GET INVOLVED,<br>
-	CONNECT WITH US NOW !</h3>
-	<div class="icon_gp">
-		<div class="icon">
-			<a href="#">
-				<img src="image/fb.png">
-			</a>
-		</div>
-		<div class="icon">
-			<a href="#">
-				<img src="image/g+.png">
-			</a>
-		</div>
-		<div class="icon">
-			<a href="#">
-				<img src="image/twitter.png">
-			</a>
-		</div>
-		<div class="icon">
-			<a href="#">
-				<img src="image/pinterest.png">
-			</a>
-		</div>
-		<div class="icon">
-			<a href="#">
-				<img src="image/flicker.png">
-			</a>
+	<!-- =========Reviews========== -->
+	<div class="review anchor">
+		<div><div id="review"></div></div>
+		<h1>REVIEWS</h1>
+		<div class="review_gp">
+			<div class="item item_nav">
+				<ul>
+					<a><li>Cliff Diving | Italy</li></a>
+					<a><li>Volcano Boarding | Nicaragua</li></a>
+					<a><li>Zip Line | Canada</li></a>
+					<a><li>Sky Surfing | Austria</li></a>
+					<a><li>Downhill | Germany</li></a>
+				</ul>
+			</div>
+			<div class="item item_text">
+				<p>What an awesome view of Clearwater beaches! So cool to be in the air in an open flight.<br><br>     
+				The instructor was super helpful and friendly. He'll let you fly if you want to. But I was too scared since it was my first time and windy. when you 
+				get up to the top it's so peaceful anda breathtaking.<br><br>   
+				<span>I would do something like this again if I see it !
+				</span>
+				<br>
+				</p>
+				<p>- Alexander</p>
+			</div>
+			<div class="item item_pic">
+				<img src="image/re_sky.png">
+			</div>
+			<div class="clear"></div>
 		</div>
 	</div>
-<div class="copy">
-	<p>© Copyright 2017 Everest</p>
-</div>
-</div>
-<!-- =========End========== -->
-</div>
+	<!-- =========Contact us========== -->
+	<div class="contact">
+		<div class="contain">
+			<h1>CONTACT US</h1>
+			<h2>GET IN TOUCH WITH US</h2>
+			<div class="item">
+				<img src="image/tel.png">
+				<p>CALL US<br>
+				<span>0961-523-826</span>
+				</p>
+			</div>
+			<div class="item">
+				<img src="image/mail.png">
+				<p>MAIL US<br>
+				<a href="mailto:Everest@gmail.com">Everest@gmail.com</a>
+				</p>
+			</div>
+			<div class="clear"></div>
+			<div class="message_gp">
+				<div class="mes_item item1">
+					<input type="text" placeholder="* NAME">
+					<input type="text" placeholder="* EMAIL">
+				</div>
+				<div class="mes_item item2">
+					<input type="text" placeholder="YOUR MESSAGE">
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="button">
+				<a>SEND</a>
+			</div>
+		</div>
+	</div>
+	<!-- =========Footer========== -->
+	<div class="footer">
+		<h3>CAN’T WAIT TO GET INVOLVED,<br>
+		CONNECT WITH US NOW !</h3>
+		<div class="icon_gp">
+			<div class="icon">
+				<a><img src="image/fb.png"></a>
+			</div>
+			<div class="icon">
+				<a><img src="image/g+.png"></a>
+			</div>
+			<div class="icon">
+				<a><img src="image/twitter.png"></a>
+			</div>
+			<div class="icon">
+				<a><img src="image/pinterest.png"></a>
+			</div>
+			<div class="icon">
+				<a><img src="image/flicker.png"></a>
+			</div>
+		</div>
+		<div class="copy">
+			<p>© Copyright 2017 Everest</p>
+		</div>
+	</div>
+	<!-- =========End========== -->
+	</div>
 </div>
 </body>
 </html>
