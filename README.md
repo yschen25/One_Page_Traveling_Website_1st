@@ -42,6 +42,14 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 </p>
 <br/>
 
+## Poster
+ 
+The poster design for the website, use irregular shapes to express the unlimited attitude.
+<p align="center">
+   <img src="image/poster.png" alt="Project_1st_poster" title="Project_1st_poster" width="50%">
+</p>
+<br/>
+
 ## Update
 
 * **2018.09.10**
