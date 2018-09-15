@@ -3,10 +3,12 @@
 Building a <b>one/single page</b> website from structuring, designing, drawing to writing by my own.
 
 ## Description
-         
+
+<p>         
 According to the increment of smartphone usage rates, this website is design to be a <b>one/single page</b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
 
 Compared to the multipage website design, <b>one/single</b> page website making the user experience more intuitive and smooth.
+</p>
 <br/>
 
 ## Aurthor
@@ -23,6 +25,14 @@ Compared to the multipage website design, <b>one/single</b> page website making 
 * **Project manager : [ME](https://github.com/yschen25)**
 
           The whole web struture and function
+<br/>
+
+## Website Planning
+
+[Website Planning](https://tinyurl.com/y99yhoa5)
+<br/>
+Introducing the website concept, logo design, fonts and colors settings, structure, wireframes, website screenshots, references.
+<br/>
 <br/>
 
 ## Demo
