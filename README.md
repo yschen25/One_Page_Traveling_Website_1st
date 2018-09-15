@@ -1,13 +1,13 @@
 # Project_1st
 
-Building a <b>one/single page</b> website from structuring, designing, drawing to writing by my own.
+Building a **_one/single page_** website from structuring, designing, drawing to writing by my own.
 
 ## Description
 
 <p>         
-According to the increment of smartphone usage rates, this website is design to be a <b>one/single page</b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
+According to the increment of smartphone usage rates, this website is design to be a <b><i>one/single page</i></b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
 
-Compared to the multipage website design, <b>one/single</b> page website making the user experience more intuitive and smooth.
+Compared to the multipage website design, **_one/single page_** website making the user experience more intuitive and smooth.
 </p>
 <br/>
 
@@ -20,11 +20,11 @@ Compared to the multipage website design, <b>one/single</b> page website making 
          
 * **Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
-          Using Photoshop and Illustrator
+        * Using Photoshop and Illustrator
 
 * **Project manager : [ME](https://github.com/yschen25)**
 
-          The whole web struture and function
+        * The whole web struture and function
 <br/>
 
 ## Website Planning
@@ -38,7 +38,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 ## Demo
 
 <p align="center">
-   <img src="Project_1st.gif" alt="Project_1st" title="Project_1st" width="75%">
+   <img src="Project_1st.gif" alt="Project_1st" title="Project_1st" width="90%">
 </p>
 <br/>
 
@@ -62,4 +62,4 @@ The poster design for the website, use irregular shapes to express the unlimited
 <br/>
 
 ## Demo Editor Tools
-Using [ScreenToGif](http://www.screentogif.com/) to record 'n' [ezGIF](https://ezgif.com/) to edit.
+Using [ScreenToGif](http://www.screentogif.com/) to record and [ezGIF](https://ezgif.com/) to edit.
