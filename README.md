@@ -13,16 +13,16 @@ Compared to the multipage website design, **_one/single page_** website making t
 
 ## Aurthor
 
-* **Programmer : [ME](https://github.com/yschen25)**
+* **:octocat: Programmer : [ME](https://github.com/yschen25)**
         
         * No plugin
         * This web w/o RWD but 2nd will have it 
          
-* **Ui/Ux Designer : [ME](https://github.com/yschen25)**
+* **:octocat: Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
         * Using Photoshop and Illustrator
 
-* **Project manager : [ME](https://github.com/yschen25)**
+* **:octocat: Project manager : [ME](https://github.com/yschen25)**
 
         * The whole web struture and function
 <br/>
