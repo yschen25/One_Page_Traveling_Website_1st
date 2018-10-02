@@ -37,6 +37,12 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 ## Demo
 
+### **[WEBSITE](https://yschen25.github.io/Project_1st/)**
+**Where You Can See The Web**
+<br/>
+<br/>
+<br/>
+
 <p align="center">
    <img src="Project_1st.gif" alt="Project_1st" title="Project_1st" width="90%">
 </p>
