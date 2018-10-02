@@ -22,7 +22,7 @@ Compared to the multipage website design, **_one/single page_** website making t
         
         * Using Photoshop and Illustrator
 
-* **:octocat: Project manager : [ME](https://github.com/yschen25)**
+* **:octocat: Project Manager : [ME](https://github.com/yschen25)**
 
         * The whole web struture and function
 <br/>
