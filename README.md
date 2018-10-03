@@ -20,7 +20,7 @@ Compared to the multipage website design, **_one/single page_** website making t
          
 * **:octocat: Ui/Ux Designer : [ME](https://github.com/yschen25)**
         
-        * Using Photoshop and Illustrator
+        * Using Photoshop and illustrator
 
 * **:octocat: Project Manager : [ME](https://github.com/yschen25)**
 
