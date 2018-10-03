@@ -37,7 +37,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 ## Demo
 
-### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/One_page_Traveling_Website_1st/) -> Where You Can See This Website**
+### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/One_Page_Traveling_Website_1st/) -> Where You Can See This Website**
 <br/>
 <br/>
 <br/>
