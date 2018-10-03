@@ -1,17 +1,17 @@
-# Project_1st
+# One_Page_Traveling_Website_1st
 
-Building a **_one/single page_** website from structuring, designing, drawing to writing by my own.
+This website is offering extreme sports planning, building a **_one/single page_** web from structuring, designing, drawing to writing of my own.
 
 ## Description
 
 <p>         
-According to the increment of smartphone usage rates, this website is design to be a <b><i>one/single page</i></b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
+According to the increment of smartphone usage rates, this website is designed to be a <b><i>one/single page</i></b> web, there are no additional pages, users can just click the navigation links then slide to the destinations on the page, or they can just scroll down to the different sections as they want.
 
 Compared to the multipage website design, **_one/single page_** website making the user experience more intuitive and smooth.
 </p>
 <br/>
 
-## Aurthor
+## Author
 
 * **:octocat: Programmer : [ME](https://github.com/yschen25)**
         
@@ -37,14 +37,13 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 ## Demo
 
-### **[WEBSITE](https://yschen25.github.io/Project_1st/)**
-**Where You Can See The Web**
+### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/Project_1st/) -> Where You Can See The Web**
 <br/>
 <br/>
 <br/>
 
 <p align="center">
-   <img src="Project_1st.gif" alt="Project_1st" title="Project_1st" width="90%">
+   <img src="image/One_Page_Traveling_Website_1st.gif" alt="One_Page_Traveling_Website_1st" title="One_Page_Traveling_Website_1st" width="90%">
 </p>
 <br/>
 
@@ -52,7 +51,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
  
 The poster design for the website, use irregular shapes to express the unlimited attitude.
 <p align="center">
-   <img src="image/poster.png" alt="Project_1st_poster" title="Project_1st_poster" width="50%">
+   <img src="image/poster.png" alt="One_Page_Traveling_Website_1st_poster" title="One_Page_Traveling_Website_1st_poster" width="50%">
 </p>
 <br/>
 
