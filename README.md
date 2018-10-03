@@ -37,7 +37,7 @@ Introducing the website concept, logo design, fonts and colors settings, structu
 
 ## Demo
 
-### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/Project_1st/) -> Where You Can See The Web**
+### **[ONE PAGE TRAVELING WEBSITE](https://yschen25.github.io/One_page_Traveling_Website_1st/) -> Where You Can See This Website**
 <br/>
 <br/>
 <br/>
@@ -64,6 +64,11 @@ The poster design for the website, use irregular shapes to express the unlimited
          * Fixing an image doesn't show in the browsers : IE and Edge 
          * Fixing the layout in IE
          * Optimizing user interface
+
+* **2018.10.03**
+
+         * Adding website link
+         * Changing readme content and meta tags       
 <br/>
 
 ## Demo Editor Tools
