@@ -1,6 +1,7 @@
 # One_Page_Traveling_Website_1st
 
 This website is offering extreme sports planning, building a **_one/single page_** web from structuring, designing, drawing to writing of my own.
+<br/>
 
 ## Description
 
